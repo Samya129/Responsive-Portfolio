@@ -1,0 +1,11 @@
+/* For index.html */
+h1 {margin-bottom: 40px;
+}
+
+h2 {text-align: center;
+    margin-bottom: 20px;
+}
+
+.MainParagraphs, h2 {
+    margin-top: 20px;
+}
