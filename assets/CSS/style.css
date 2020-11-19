@@ -9,3 +9,8 @@ h2 {text-align: center;
 .MainParagraphs, h2 {
     margin-top: 20px;
 }
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
