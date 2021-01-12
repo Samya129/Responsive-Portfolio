@@ -1,4 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Tangerine");
+* {
+    /* font-family: 'Tangerine', serif; */
+    /* text-shadow: 4px 4px 4px #aaa; */
+}
+
 /* For index.html */
+body{
+    background-image: url("CSS/images/GoldAndBlackBackground.png");
+}
+
 h1 {margin-bottom: 40px;
 }
 
