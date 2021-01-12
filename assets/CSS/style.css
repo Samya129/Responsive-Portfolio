@@ -8,6 +8,7 @@ text-decoration-color: #ffe66e;
 }
 
 /* Home Page */
+
 h1 {
 margin-bottom: 40px;
 text-shadow: 4px 4px 4px #ffe66e;
@@ -27,9 +28,9 @@ text-shadow: 4px 4px 4px #ffe66e;
     max-width: 100%;
     height: auto;
 }
-.jumbotron{
-    background-color: red;
-    opacity: 0.5;
+.jumbotron {
+    background: red;
+    opacity: 0.92;
 }
 
 /* Portfolio Page */
@@ -41,7 +42,6 @@ text-shadow: 4px 4px 4px #ffe66e;
 }
 .marginRight {
 margin-right: 3px;
-
 }
 
 .marginLeft{
@@ -51,12 +51,8 @@ margin-left: 3px;
 .g-0{
     background-color: black;
 }
-small{
-    color: white;
-}
 
 .btn-dark:hover{
-
 cursor: pointer;
 box-shadow: 0 0.4rem 1.4rem 0 #ffe66e;
 transition: transform 150ms;
@@ -65,10 +61,13 @@ color: #ffe66e;
 }
 
 /* Contact Page */
-.img-fluid{
-    color: red;
-}
 
 .form-control{
 text-shadow: 4px 4px 4px #ffe66e;
+}
+
+footer{
+    background: black;
+    opacity: 0.8;
+    /* text-align: center; */
 }
