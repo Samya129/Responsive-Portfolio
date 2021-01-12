@@ -11,6 +11,9 @@ text-decoration-color: #ffe66e;
 width: auto;
 height: auto;
 }
+p {
+    font-size: x-large; 
+}
 
 /* Home Page */
 .jumbotron{
@@ -25,6 +28,7 @@ text-shadow: 4px 4px 4px #ffe66e;
 h2 {
 text-align: center;
 margin-bottom: 20px;
+font-size: xx-large;
 text-shadow: 4px 4px 4px #ffe66e;
 }
 
@@ -42,7 +46,8 @@ text-shadow: 4px 4px 4px #ffe66e;
     border: solid white 5px ;
 }
 h5{
-text-shadow: 4px 4px 4px #ffe66e;  
+text-shadow: 4px 4px 4px #ffe66e;
+font-size: xx-large;
 }
 .marginRight {
 margin-right: 3px;
