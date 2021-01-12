@@ -6,7 +6,7 @@
 
 /* For index.html */
 body{
-    background-image: url("CSS/images/GoldAndBlackBackground.png");
+    background: url("/assets/images/GoldAndBlackBackground.png");
 }
 
 h1 {margin-bottom: 40px;
