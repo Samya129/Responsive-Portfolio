@@ -1,15 +1,14 @@
 @import url("https://fonts.googleapis.com/css?family=Tangerine");
 * {
-    color: white;
-    /* font-family: 'Tangerine', serif; */
+    font-family: 'Tangerine', serif;
     /* text-shadow: 4px 4px 4px #aaa; */
+    color: #ffe66e
+}
+.nav-link, .nav-brand{
+text-decoration-color: #ffe66e;
 }
 
-/* For index.html */
-body{
-    background: url("/assets/images/GoldAndBlackBackground.png");
-}
-
+/* For Home Page */
 h1 {margin-bottom: 40px;
 }
 
@@ -25,3 +24,33 @@ h2 {text-align: center;
     max-width: 100%;
     height: auto;
 }
+.jumbotron{
+    opacity: 0.8;
+}
+
+/* For Portfolio Page */
+.marginRight {
+margin-right: 3px;
+
+}
+
+.marginLeft{
+margin-left: 3px;
+}
+
+.g-0{
+    background-color: black;
+}
+small{
+    color: white;
+}
+
+.btn-dark:hover{
+
+cursor: pointer;
+box-shadow: 0 0.4rem 1.4rem 0 #ffe66e;
+transition: transform 150ms;
+transform: scale(1.03);
+color: #ffe66e;
+}
+
