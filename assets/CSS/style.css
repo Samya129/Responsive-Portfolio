@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Tangerine");
 * {
     font-family: 'Tangerine', serif;
-    /* text-shadow: 4px 4px 4px #aaa; */
     color: #ffe66e
 }
 .nav-link, .nav-brand{
@@ -9,11 +8,15 @@ text-decoration-color: #ffe66e;
 }
 
 /* Home Page */
-h1 {margin-bottom: 40px;
+h1 {
+margin-bottom: 40px;
+text-shadow: 4px 4px 4px #aaa;
 }
 
-h2 {text-align: center;
-    margin-bottom: 20px;
+h2 {
+text-align: center;
+margin-bottom: 20px;
+text-shadow: 4px 4px 4px #aaa;
 }
 
 .MainParagraphs, h2 {
@@ -25,10 +28,14 @@ h2 {text-align: center;
     height: auto;
 }
 .jumbotron{
-    opacity: 0.8;
+    background-color: red;
+    opacity: 0.5;
 }
 
 /* Portfolio Page */
+.mb-3{
+    border: solid white 5px ;
+}
 .marginRight {
 margin-right: 3px;
 
