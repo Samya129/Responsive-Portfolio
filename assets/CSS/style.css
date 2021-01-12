@@ -36,6 +36,9 @@ text-shadow: 4px 4px 4px #aaa;
 .mb-3{
     border: solid white 5px ;
 }
+h5{
+text-shadow: 4px 4px 4px #aaa;  
+}
 .marginRight {
 margin-right: 3px;
 
