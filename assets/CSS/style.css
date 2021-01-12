@@ -8,7 +8,7 @@
 text-decoration-color: #ffe66e;
 }
 
-/* For Home Page */
+/* Home Page */
 h1 {margin-bottom: 40px;
 }
 
@@ -28,7 +28,7 @@ h2 {text-align: center;
     opacity: 0.8;
 }
 
-/* For Portfolio Page */
+/* Portfolio Page */
 .marginRight {
 margin-right: 3px;
 
@@ -52,5 +52,10 @@ box-shadow: 0 0.4rem 1.4rem 0 #ffe66e;
 transition: transform 150ms;
 transform: scale(1.03);
 color: #ffe66e;
+}
+
+/* Contact Page */
+.img-fluid{
+    color: red;
 }
 
