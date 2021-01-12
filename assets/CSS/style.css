@@ -7,9 +7,15 @@
 text-decoration-color: #ffe66e;
 }
 
+#Beach, #Dancing, #communityService {
+width: auto;
+height: auto;
+}
+
 /* Home Page */
 .jumbotron{
     border-bottom: solid white;
+    /* border-top: solid white; */
 }
 h1 {
 margin-bottom: 40px;
