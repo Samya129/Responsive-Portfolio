@@ -8,7 +8,9 @@ text-decoration-color: #ffe66e;
 }
 
 /* Home Page */
-
+.jumbotron{
+    border-bottom: solid white;
+}
 h1 {
 margin-bottom: 40px;
 text-shadow: 4px 4px 4px #ffe66e;
@@ -27,10 +29,6 @@ text-shadow: 4px 4px 4px #ffe66e;
 .img-fluid {
     max-width: 100%;
     height: auto;
-}
-.jumbotron {
-    background: red;
-    opacity: 0.92;
 }
 
 /* Portfolio Page */
@@ -66,8 +64,10 @@ color: #ffe66e;
 text-shadow: 4px 4px 4px #ffe66e;
 }
 
-footer{
+footer, .jumbotron{
     background: black;
     opacity: 0.8;
-    /* text-align: center; */
 }
+/* .pFooter{
+text-align: center;
+} */
