@@ -3,22 +3,23 @@
     font-family: 'Tangerine', serif;
     color: #ffe66e
 }
-.nav-link, .nav-brand{
+.nav-link, .nav-brand {
 text-decoration-color: #ffe66e;
 }
-.navbar-toggler{
+.navbar-toggler {
     background-color: black;
+    border-color: #ffe66e;
 }
-.navbar-toggler:hover{
+.navbar-toggler:hover {
     color: #ffe66e;
 }
-.fa-gem{
+.fa-gem {
     background-color: black;
     color:#ffe66e; 
     font: size 30px;
 }
 
-#Beach, #Dancing, #communityService .professionalPhoto{
+#Beach, #Dancing, #communityService .professionalPhoto {
 width: auto;
 height: auto;
 }
@@ -31,7 +32,7 @@ nav {
     color: orange;
 }
 
-.jumbotron{
+.jumbotron {
     border-bottom: solid white;
     /* border-top: solid white; */
 }
@@ -46,9 +47,6 @@ margin-bottom: 20px;
 font-size: xx-large;
 text-shadow: 4px 4px 4px #ffe66e;
 }
-h3{
-    text-center
-}
 
 .MainParagraphs, h2 {
     margin-top: 20px;
@@ -60,10 +58,10 @@ h3{
 }
 
 /* Portfolio Page */
-.mb-3{
+.mb-3 {
     border: solid white 5px ;
 }
-h5{
+h5 {
 text-shadow: 4px 4px 4px #ffe66e;
 font-size: xx-large;
 }
@@ -71,15 +69,15 @@ font-size: xx-large;
 margin-right: 3px;
 }
 
-.marginLeft{
+.marginLeft {
 margin-left: 3px;
 }
 
-.g-0{
+.g-0 {
     background-color: black;
 }
 
-.btn-dark:hover{
+.btn-dark:hover {
 cursor: pointer;
 box-shadow: 0 0.4rem 1.4rem 0 #ffe66e;
 transition: transform 150ms;
@@ -89,11 +87,11 @@ color: #ffe66e;
 
 /* Contact Page */
 
-.form-control{
+.form-control {
 text-shadow: 4px 4px 4px #ffe66e;
 }
 
-footer, .jumbotron{
+footer, .jumbotron {
     background: black;
     opacity: 0.8;
 }
