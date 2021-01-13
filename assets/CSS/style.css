@@ -35,6 +35,9 @@ margin-bottom: 20px;
 font-size: xx-large;
 text-shadow: 4px 4px 4px #ffe66e;
 }
+h3{
+    text-center
+}
 
 .MainParagraphs, h2 {
     margin-top: 20px;
