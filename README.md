@@ -1,8 +1,8 @@
 # Responsive Portfolio Verison 2
 
-This project consisted of creating a responsive and mobile design. This was to ensure that the website application can render according to a user’s screen size whether that be on computer or phone. By using Bootstrap CSS Framework and the grid system along with HTML, we can deploy an application suitable for small and/or larger screens.
+This project consisted of updating my responsive and mobile designed portfolio. This was to ensure that the website application can render according to a user’s screen size whether that be on computer or phone. By using Bootstrap CSS Framework and the grid system along with HTML, we can deploy an application suitable for small and/or larger screens. 
 
-As an ongoing learning coder, my task was to update my current portfolio page and other included materials thus building towards being employer-competitive.
+Additionally, developing a given portfolio, as an ongoing learning coder, my task was to update my current portfolio page and other included materials thus building towards being employer-competitive in the web development field.
 
 ## Criteria
 
@@ -22,12 +22,13 @@ Applications used:
     -HTML
     -CSS 
     -FontAwesome
+    -Bootstrap
 
 Source Links:
 
-    -https://github.com/Samya129
-
     -https://github.com/Samya129/Responsive-Portfolio
+
+    -https://samya129.github.io/Responsive-Portfolio/index.html
     
 Table of Contents:
 
@@ -36,8 +37,8 @@ Table of Contents:
     Credits: None
     License: None
 
-![GitHub Logo](/Images/WeatherDashboard.png) Format:![Responsive Portfolio Demo Image]
+![GitHub Logo](./assets/images/HomePage) Format:![Responsive Portfolio Demo Home Page]
 
+![GitHub Logo](./assets/images/ContactPage) Format:![Responsive Portfolio Demo Contact Page]
 
-
-
+![GitHub Logo](./assets/images/PortfolioPage) Format:![Responsive Portfolio Demo Projects Page]
