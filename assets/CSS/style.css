@@ -16,6 +16,10 @@ p {
 }
 
 /* Home Page */
+nav {
+    color: orange;
+}
+
 .jumbotron{
     border-bottom: solid white;
     /* border-top: solid white; */
