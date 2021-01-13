@@ -2,7 +2,7 @@
 
 This project consisted of updating my responsive and mobile designed portfolio. This was to ensure that the website application can render according to a user’s screen size whether that be on computer or phone. By using Bootstrap CSS Framework and the grid system along with HTML, we can deploy an application suitable for small and/or larger screens. 
 
-Additionally, developing a given portfolio, as an ongoing learning coder, my task was to update my current portfolio page and other included materials thus building towards being employer-competitive in the web development field.
+Additionally, developing a given portfolio, as an ongoing learning coder and aspiring developer, my task was to update my current portfolio page and other included materials thus building towards being employer-competitive in the web development field.
 
 ## Criteria
 
