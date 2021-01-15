@@ -1,6 +1,6 @@
-@import url("https://fonts.googleapis.com/css?family=Tangerine");
+@import url("https://fonts.googleapis.com/css2?family=Merienda+One&display=swap");
 * {
-    font-family: 'Tangerine', serif;
+    font-family: 'Merienda One', cursive;
     color: #ffe66e
 }
 .nav-link, .nav-brand {
@@ -21,7 +21,7 @@ width: auto;
 height: auto;
 }
 p {
-    font-size: x-large; 
+    font-size: large; 
 }
 
 /* Home Page */
@@ -41,7 +41,7 @@ text-shadow: 4px 4px 4px #ffe66e;
 h2 {
 text-align: center;
 margin-bottom: 20px;
-font-size: xx-large;
+font-size: x-large;
 text-shadow: 4px 4px 4px #ffe66e;
 }
 
@@ -60,7 +60,7 @@ text-shadow: 4px 4px 4px #ffe66e;
 }
 h5 {
 text-shadow: 4px 4px 4px #ffe66e;
-font-size: xx-large;
+font-size: x-large;
 }
 .marginRight {
 margin-right: 3px;
