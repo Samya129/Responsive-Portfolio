@@ -37,8 +37,8 @@ Table of Contents:
     Credits: None
     License: None
 
-![GitHub Logo](./assets/images/HomePage.png) Format:![Responsive Portfolio Demo Home Page]
+![GitHub Logo](./assets/images/HomePage.png)
 
-![GitHub Logo](./assets/images/ContactPage.png) Format:![Responsive Portfolio Demo Contact Page]
+![GitHub Logo](./assets/images/ContactPage.png) 
 
-![GitHub Logo](./assets/images/PortfolioPage.png) Format:![Responsive Portfolio Demo Projects Page]
+![GitHub Logo](./assets/images/PortfolioPage.png)
