@@ -1,4 +1,4 @@
-# Responsive Portfolio Verison 2
+# Responsive Portfolio Verison 3
 
 This project consisted of updating my responsive and mobile designed portfolio. This was to ensure that the website application can render according to a user’s screen size whether that be on computer or phone. By using Bootstrap CSS Framework and the grid system along with HTML, we can deploy an application suitable for small and/or larger screens. 
 
